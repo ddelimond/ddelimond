@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently soaking up **as much information as i possibly can**
 
-- 👨‍💻 All of my projects are available at [https://darren-delimond.netlify.app](https://darren-delimond.netlify.app)
+- 👨‍💻 All of my projects are available at [https://darren-delimond.netlify.app](https://darren-delimond.netlify.app) or [http://github.com/ddelimond](http://github.com/ddelimond)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
