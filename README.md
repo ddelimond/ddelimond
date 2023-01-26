@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddelimond&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ddelimond" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddelimond&show_icons=true&locale=en&layout=compact&theme=transparent" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddelimond&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
