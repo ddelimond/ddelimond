@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ddelimond)
+[![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://ddelimond)
 <h1 align="center">Hi 👋, I'm Darren aka DSquared or DoubleD</h1>
 <h3 align="center">A curious and laidback fullstack developer from Columbus Ohio</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
