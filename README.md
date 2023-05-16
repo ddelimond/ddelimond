@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on learning Python and Django
 <!-- - 🔭 I’m currently working on learning Python and Django [Stash](https://github.com/ddelimond/Stash) -->
 
-- 👨‍💻 All of my projects are available at [https://ddelimond.github.io/](https://darrendelimond.com)
+- 👨‍💻 All of my projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
 
 - 💬 Ask me about **JavaScript,MERN, Tech**
 
