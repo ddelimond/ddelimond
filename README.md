@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/d2thedev" target="blank"><img src="https://img.shields.io/twitter/follow/d2thedev?logo=twitter&style=for-the-badge" alt="d2thedev" /></a> </p>
 
-- 🔭 I’m currently working on learning TypeScript, Python, and Django
+- 🔭 I’m currently working on learning TypeScript, Java, and Springboot
 <!-- - 🔭 I’m currently working on learning Python and Django [Stash](https://github.com/ddelimond/Stash) -->
 
 - 👨‍💻 All of my projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
