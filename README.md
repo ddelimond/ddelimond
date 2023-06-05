@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **darrendelimond@yahoo.com**
 
-- ⚡ Fun fact **I love to laugh, read, and learn new things**
+- ⚡ Fun fact **I love to laugh, read, and travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
