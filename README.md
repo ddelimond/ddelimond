@@ -1,22 +1,22 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)](https://ddelimond)
 <h1 align="center">Hi 👋, I'm Darren aka DoubleD</h1>
-<h3 align="center">A curious and inquisitive Fullstack developer from Columbus Ohio</h3>
+<h3 align="center">A curious and inquisitive Developer/ Cyber enthusiast from Columbus Ohio</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddelimond&label=Profile%20views&color=0e75b6&style=flat" alt="ddelimond" /> </p>
 
 <p align="left"> <a href="https://twitter.com/d2thedev" target="blank"><img src="https://img.shields.io/twitter/follow/d2thedev?logo=twitter&style=for-the-badge" alt="d2thedev" /></a> </p>
 
-- 🔭 I’m currently working on learning TypeScript, Java, and Springboot
+- 🔭 I’m currently working on learning Penetration Testing, Phyton, and Linux
 <!-- - 🔭 I’m currently working on learning Python and Django [Stash](https://github.com/ddelimond/Stash) -->
 
 - 👨‍💻 All of my projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
 
-- 💬 Ask me about **JavaScript, MERN, or Tech**
+- 💬 Ask me about **Development, Hacking, or Tech**
 
 - 📫 How to reach me **darrendelimond@yahoo.com**
 
-- ⚡ Fun fact **I love to laugh, read, and travel**
+- ⚡ Fun fact **I love to laugh, learn, and travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
