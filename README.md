@@ -1,7 +1,7 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)](https://ddelimond)
 <h1 align="center">Hi 👋, I'm Darren aka DoubleD</h1>
 <h3 align="center">A curious and inquisitive Developer/ Cyber enthusiast from Columbus Ohio</h3>
-<img align="right" width="400" src="https://i.gifer.com/3odR.gif">
+<img align="right" height="30" width="40" src="https://i.gifer.com/3odR.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddelimond&label=Profile%20views&color=0e75b6&style=flat" alt="ddelimond" /> </p>
 
