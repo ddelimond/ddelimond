@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/d2thedev" target="blank"><img src="https://img.shields.io/twitter/follow/d2thedev?logo=twitter&style=for-the-badge" alt="d2thedev" /></a> </p>
 
-- 🔭 I’m currently working on learning Penetration Testing, Phyton, and Linux
-<!-- - 🔭 I’m currently working on learning Python and Django [Stash](https://github.com/ddelimond/Stash) -->
+- 🔭 I’m currently working on learning Java, Springboot, BS in Computer Science.
 
 - 👨‍💻 All of my projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
 
