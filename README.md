@@ -1,6 +1,6 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)](https://ddelimond)
 <h1 align="center">Hi 👋, I'm Darren aka DoubleD</h1>
-<h3 align="center">A inquisitive Developer/ Cyber hobbiest from Columbus Ohio</h3>
+<h3 align="center">An inquisitive Developer & Cyber hobbiest from Columbus Ohio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddelimond&label=Profile%20views&color=0e75b6&style=flat" alt="ddelimond" /> </p>
 
