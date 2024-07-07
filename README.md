@@ -2,8 +2,6 @@
 <h1 align="center">Hi :wave:, I'm Darren aka DoubleD</h1>
 <h3 align="center">An inquisitive Developer & Cyber hobbiest from Columbus Ohio</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddelimond&label=Profile%20views&color=0e75b6&style=flat" alt="ddelimond" /> </p>
-
 <p align="left"> <a href="https://twitter.com/d2thedev" target="blank"><img src="https://img.shields.io/twitter/follow/d2thedev?logo=twitter&style=for-the-badge" alt="d2thedev" /></a> </p>
 
 - 🔭 I’m currently working on learning Java, Ruby,and Ruby on Rails while getting my BS in Computer Science.
