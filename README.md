@@ -2,11 +2,9 @@
 <h1 align="center">Hi :wave:, I'm Darren </h1>
 <h3 align="center">An Inquisitive Developer from Columbus Ohio</h3>
 
-<p align="left"> <a href="https://twitter.com/d2thedev" target="blank"><img src="https://img.shields.io/twitter/follow/d2thedev?logo=twitter&style=for-the-badge" alt="d2thedev" /></a> </p>
-
 - 🔭 I’m currently working on learning Java, Angular, and SpringBoot while getting my BS in Computer Science.
 
-- 👨‍💻 All of my portfolio worthy projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
+- 👨‍💻 All of my portfolio-worthy projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
 
 - 📫 How to reach me **ddelimo@wgu.edu**
 
@@ -14,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d2thedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d2thedev" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/darren-delimond-6b9297114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-delimond-6b9297114" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/darrendelimond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darrendelimond" height="30" width="40" /></a>
 </p>
