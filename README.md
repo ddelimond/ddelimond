@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave:, I'm Darren </h1>
 <h3 align="center">An Inquisitive Developer from Columbus Ohio</h3>
 
-- 🔭 I’m currently working on learning Java, Angular, and SpringBoot while getting my BS in Computer Science.
+- 🔭 I’m currently working on learning Angular and  SpringBoot while getting my BS in Computer Science.
 
 - 👨‍💻 All of my portfolio-worthy projects are available at [https://darrendelimond.com/](https://darrendelimond.com)
 
