@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ddelimo@wgu.edu**
 
-- ⚡ Current books that I'm reading Security for Web Developers
+- ⚡ Current books that I'm reading: Security for Web Developers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
