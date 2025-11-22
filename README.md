@@ -2,13 +2,13 @@
 <h1 align="center">Hi :wave:, I'm Darren </h1>
 <h3 align="center">An Inquisitive Developer from Columbus Ohio</h3>
 
-- 🔭 I’m currently working on building  MySQL, Springboot, and React + Angular applications while pursuing my BS in Computer Science.
+- 🔭 I’m currently working on building  MySQL, Node, and React applications while pursuing my BS in Computer Science.
 
 - 👨‍💻 All of my projects can be found here at [https://darrendelimond.com/](https://darrendelimond.com)
 
 - 📫 How to reach me **ddelimo@wgu.edu**
 
-- ⚡ Current books that I'm reading: Security for Web Developers
+- ⚡ Current books that I'm reading: Alice and Bob learn Web Security
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
